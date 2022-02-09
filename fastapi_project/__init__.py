@@ -1,0 +1,2 @@
+def weather():
+    return None
